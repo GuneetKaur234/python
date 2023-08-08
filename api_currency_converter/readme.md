@@ -1,7 +1,7 @@
 
 # currency converter API
 
-## A fully functional simple project written in Python showing how to use Requests.
+## A fully functional simple project written in Python.
 
 - In this project I have imported currencyapicom module, This allows you to use free API for currency convertion.
 - By using For loop, I have extracted the values.
