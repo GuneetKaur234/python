@@ -1,5 +1,5 @@
 
-# currency converter API
+# Currency converter API
 
 ## A fully functional simple project written in Python.
 
