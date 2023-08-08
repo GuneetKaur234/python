@@ -11,4 +11,4 @@
 
 1. Clone this project
 2. Download the currencyapicom module, using comand "python -m pip install currencyapicom"
-3. To use this project we need currencyapicom API key, we can get the updated free API key by login to "https://currencyapi.com/".
+3. To use this project we need currencyapicom API key, to get the updated free API key sign in to "https://currencyapi.com/".
