@@ -9,7 +9,7 @@
 
 ## How to use this example
 
-1. clone this project
+1. Clone this project
 2. Download the Request module, using comand "python -m pip install requests"
 3. To use this project we need Stack exchange API key, we can get the updated free API key from Stack exchange documentation.
 
