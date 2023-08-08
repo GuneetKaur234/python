@@ -12,6 +12,10 @@ list_currency = []
 for x in dict_currency_name:
     list_currency.append(f"{x} : {dict_currency_name[x]['name']}")
 
+list_symbol = []
+for x in dict_currency_name:
+    list_symbol.append(f"{x} : {dict_currency_name[x]['symbol_native']}")
+
 for x in range(1,len(list_currency)+1):
     print(f"{x}: {list_currency[x-1]}")
 
@@ -28,4 +32,4 @@ dict_currency_value = result_value['data'][data_string[0]]['value']
 converted_amount = amount * float(dict_currency_value) / 82.79
 formated = "{:.2f}".format(converted_amount)
 
-print(f"Total amount after conversion is {formated}")
+print(f"Total amount after conversion is {list_symbol[currency-1][-1]}{formated}")
