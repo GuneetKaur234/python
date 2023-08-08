@@ -1,6 +1,6 @@
 # Sending Email
 
-## A fully functional simple project written in Python showing how to send emails using smtplib.
+## Python project showing how to send emails using smtplib.
 
 - In this project I have imported smtplib module.
 - Smtplib allows you to send email by using SMTP.
