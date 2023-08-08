@@ -11,5 +11,5 @@
 
 1. clone this project
 2. Download the Request module, using comand "python -m pip install requests"
-3. To use this project we need Stack exchange API key, we canget the updated key from
+3. To use this project we need Stack exchange API key, we can get the updated free API key from Stack exchange documentation.
 
