@@ -7,3 +7,9 @@
 - I have further used get method to make request to Stack Exchange web page by using API key.
 - Then For loop is used to fetch content from web page and print them.
 
+## How to use this example
+
+1. clone this project
+2. Download the Request module, using comand "python -m pip install requests"
+3. To use this project we need Stack exchange API key, we canget the updated key from
+
