@@ -3,9 +3,9 @@
 
 ## A fully functional simple project written in Python.
 
-- In this project I have imported currencyapicom module, This allows you to use free API for currency convertion.
+- In this project I have imported currencyapicom module, this allows you to use free API for currency convertion.
 - By using For loop, I have extracted the values.
-- Further used that Values to convert base amount to target amount.
+- Further used that Values to convert base amount (Rupees) to target amount.
 
 ## How to use this example
 
