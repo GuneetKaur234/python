@@ -20,7 +20,6 @@ spk.SetVoice(vcs.Item(speaker_number))
 def search(data):
 
     text = data[11:]
-    print(text)
     options = webdriver.ChromeOptions()
     options.add_experimental_option("detach",True)
 
@@ -65,9 +64,10 @@ if __name__ == "__main__":
              webbrowser.open(site[1])
 
         if "hello Sugar" in query:
-            say('hello guneet')
+            say('hello Boss')
 
         elif "play music" in query:
+            say("playing requested music")
             music_path = "D:\guneet\study\python\Drinking Water.mp3"
             os.startfile(music_path)
 
@@ -110,4 +110,5 @@ if __name__ == "__main__":
             os.startfile(whatsapp)
 
         elif "search" in query.lower():
+            say("searching for your query")
               search(query)
