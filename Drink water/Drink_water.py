@@ -1,4 +1,3 @@
-from datetime import datetime, timedelta
 import time
 import win32com.client as wincl
 from plyer import notification
