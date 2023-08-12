@@ -1,4 +1,3 @@
-
 # Download image
 
 ## A fully functional simple project written in Python to download images.
